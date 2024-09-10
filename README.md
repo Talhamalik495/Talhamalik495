@@ -5,7 +5,7 @@
 <p align="left"margin-top: 20px;> <img src="https://komarev.com/ghpvc/?username=talhamalik495&label=Profile%20views&color=0e75b6&style=flat" alt="talhamalik495" /> </p>
 <img align="right" alt="Coding" width="1000" height="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-<p align="left" dir="auto"> <a href="https://twitter.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/26ac603ab197cb7b1cb5c4083f897ced4c1278540c620ed6077ccabc3040cb79/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f3f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;"></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamalik495" alt="talhamalik495" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **React**
