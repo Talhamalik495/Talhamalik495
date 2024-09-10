@@ -3,21 +3,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center"> A Passionate Full Stack Develepor from Pakistan</h3> 
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamalik495" alt="talhamalik495" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
--👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
+🌱 I’m currently learning **React**
 
--💬 Ask me about React , js.
+👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
 
--📫 How to reach me 
+💬 Ask me about React , js.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamalik495&label=Profile%20views&color=0e75b6&style=flat" alt="talhamalik495" /> </p>
-<img align="right" alt="Coding" width="500" 
-height="200"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>  
+📫 How to reach me 
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
