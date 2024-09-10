@@ -9,9 +9,13 @@ height="200"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a56
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamalik495&label=Profile%20views&color=0e75b6&style=flat" alt="talhamalik495" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamalik495" alt="talhamalik495" /></a> </p>
 - 🌱 I’m currently learning **React**
-👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
-💬 Ask me about React , js.
-📫 How to reach me 
+
+-👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
+
+-💬 Ask me about React , js.
+
+-📫 How to reach me 
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
