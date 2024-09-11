@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning React js , Express js , Next Js , React Native
 
 👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
 
-💬 Ask me about React , js.
+💬 Ask me about React
 
 📫 How to reach me 
 
