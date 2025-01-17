@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-🌱 I’m currently learning Node Js , Express js , My Sql,
+🌱 I’m currently learning Node Js , Express js , My Sql
 
 👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
 
