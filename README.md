@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning Node Js , Express js , My Sql
 
-👨‍💻 All of my projects are available at  <a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
+👨‍💻 All of my projects are available at<a href="https://github.com/Talhamalik495/Talhamalik495" target="blank">TalhaMalik.com</a>
 
 💬 Ask me about React
 
